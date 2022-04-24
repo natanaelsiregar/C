@@ -9,7 +9,7 @@
 // main function (execution of program begins)
 int main()
 {
-    printf("Hello World");      // print the string inside quotation
+    printf("Hello World!");      // print the string inside quotation
   
     return 0;
 }
